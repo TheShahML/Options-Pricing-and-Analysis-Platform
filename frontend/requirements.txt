@@ -1,0 +1,4 @@
+reflex==0.8.16
+httpx==0.27.0
+plotly==5.24.1
+pandas==2.1.4
