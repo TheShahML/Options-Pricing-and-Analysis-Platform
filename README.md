@@ -15,7 +15,9 @@ Real-time options analysis with Black-Scholes pricing, Greeks calculation, and l
 ## Tech Stack
 
 **Backend:** FastAPI, NumPy/SciPy, yfinance, TwelveData API, Pydantic
+
 **Frontend:** Reflex (Python-based web framework), Radix UI
+
 **Deployment:** Docker
 
 ## Screenshots
