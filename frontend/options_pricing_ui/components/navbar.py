@@ -30,7 +30,7 @@ def navbar() -> rx.Component:
                         spacing="2",
                         align="center",
                     ),
-                    href="https://linkedin.com/in/yourprofile",
+                    href="https://linkedin.com/in/shahmirjaved",
                     target="_blank",
                     _hover={"color": "#2EC4B6"},
                 ),

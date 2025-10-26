@@ -1,8 +1,8 @@
-﻿# Options Pricing Platform
+# Options Pricing Platform
 
 Real-time options analysis with Black-Scholes pricing, Greeks calculation, and live market data.
 
-🔗 **[Live Demo](TBA)**
+🔗 **[Visit Live Site](https://theshahml.com)**
 
 ## Features
 
@@ -18,7 +18,7 @@ Real-time options analysis with Black-Scholes pricing, Greeks calculation, and l
 
 **Frontend:** Reflex (Python-based web framework), Radix UI
 
-**Deployment:** Docker
+**Deployment:** AWS EC2, Nginx, Let's Encrypt SSL
 
 ## Screenshots
 
@@ -28,10 +28,26 @@ TBA
 
 Uses Black-Scholes-Merton model for theoretical pricing and Greeks calculation. Market data from Yahoo Finance and TwelveData. Risk-free rates dynamically fetched from US Treasury yields.
 
+## Upcoming Features
+
+- **Fix Implied Volatility Display** - Currently shows calculation issues for some options
+- **Mobile Responsive Design** - Optimize UI for mobile devices
+- **Historical Volatility Charts** - Visual analysis of past volatility
+- **Additional Option Strategies** - Straddles, strangles, iron condors, butterflies, and more
+- **Advanced Analytics** - Profit/loss diagrams, breakeven analysis
+
+*Note: Future updates depend on user demand and feedback. If you'd like to see specific features prioritized, please reach out!*
+
+## Contact & Feedback
+
+**Discord:** TheShah
+
+For feature requests, bug reports, or general feedback, feel free to reach out on Discord. Always looking to improve the platform based on user needs!
+
 ## License
 
 Apache 2.0
 
 ---
 
-_Educational purposes only. Not financial advice._
+*Educational purposes only. Not financial advice.*
